@@ -7,3 +7,5 @@ This script counts the uses of an attribute value on products and returns a repo
 An example of the output is in the file `unused_attribute_value.csv`.
 
 As well as our use of cleaning up a Magento store's attribute values - where a further script on the store can be used to iterate and remove the unused attributes, this script can also be used to give a quick report of the usage in CSV format.
+
+In our usage this was tested with a product count of over 17,000 SKUs with over 350 attributes. This took a few hours to run.
