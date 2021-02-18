@@ -1,0 +1,11 @@
+attribute,value,use_count,used_by_skus
+size,Medium,1,DEF456
+size,Large,1,ABC123
+size,Small,1,GHI789
+colour,Green,2,ABC123|GHI789
+colour,Blue,1,DEF456
+max_drops,4,0,
+max_drops,3,0,
+max_drops,1,0,
+full_capacity,1TB,1,ABC123
+full_capacity,1 TB,1,GHI789

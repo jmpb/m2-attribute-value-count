@@ -1,0 +1,11 @@
+attribute_code,backend_type,frontend_input,frontend_label,option:base_value,option:value
+size,int,select,Size,,Medium
+size,,,,,Large
+size,,,,,Small
+colour,int,select,Colour,,Green
+colour,,,,,Blue
+max_drops,int,select,Maximum Drops Before Break,,4
+max_drops,,,,,3
+max_drops,,,,,1
+full_capacity,int,select,Maximum Capacity,,1TB
+full_capacity,,,,,1 TB
